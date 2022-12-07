@@ -91,6 +91,12 @@ We will also need `ripgrep` for Telescope to work:
 
 **NOTE** make sure you have [node](https://nodejs.org/en/) installed, I recommend a node manager like [fnm](https://github.com/Schniz/fnm).
 
+## Errors at startup
+
+If there are some errors at startup related to Packer, try and enter the following from inside NeoVim
+
+```:PackerSync```
+
 ## Fonts
 
 I recommend using the following repo to get a "Nerd Font" (Font that supports icons)
