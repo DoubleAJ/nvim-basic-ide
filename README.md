@@ -97,6 +97,10 @@ If there are some errors at startup related to Packer, try and enter the followi
 
 ```:PackerSync```
 
+If there are some errors related to TreeSitter (either at startup or during code navigation), try and enter the following from inside NeoVim
+
+```:TSUpdate```
+
 ## Fonts
 
 I recommend using the following repo to get a "Nerd Font" (Font that supports icons)
