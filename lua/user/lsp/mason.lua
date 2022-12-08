@@ -7,6 +7,9 @@ local servers = {
 	"bashls",
 	"jsonls",
 	"yamlls",
+  "clangd",
+  "rust_analyzer",
+  "taplo",
 }
 
 local settings = {
